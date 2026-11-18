@@ -9,6 +9,8 @@ Fonctionnalités
 - Vérification des saisies (nombres valides, opération reconnue)
 - Gestion de la division par zéro
 
+![Exemple d'exécution](mini_calculator.png)
+
 Ce que j'ai appris
 - Lire des saisies avec input() et les convertir avec int()
 - Valider des données avec isnumeric()
